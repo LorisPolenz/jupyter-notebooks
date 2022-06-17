@@ -1,0 +1,237 @@
+[
+    {
+        "country": "Switzerland",
+        "carrier": "SBBCFFFFS",
+        "url": "https://openmobilitydata.org/p/sbb-cff-ffs/793/latest/download"
+    },
+    {
+        "country": "Netherlands",
+        "carrier": "NL",
+        "url": "http://gtfs.ovapi.nl/nl/gtfs-nl.zip"
+    },
+    {
+        "country": "France",
+        "carrier": "SNCF",
+        "url": "https://openmobilitydata.org/p/sncf/1069/latest/download"
+    },
+    {
+        "country": "Belgium",
+        "carrier": "SNCB",
+        "url": "https://openmobilitydata.org/p/societe-nationale-des-chemins-de-fer-belges/528/latest/download"
+    },
+    {
+        "country": "Germany",
+        "carrier": "RegionalRail",
+        "url": "https://download.gtfs.de/germany/rv_free/latest.zip"
+    },
+    {
+        "country": "Germany",
+        "carrier": "ICE",
+        "url": "https://download.gtfs.de/germany/fv_free/latest.zip"
+    },
+    {
+        "country": "Denmark",
+        "carrier": "Rejseplanen",
+        "url": "https://openmobilitydata.org/p/rejseplanen/705/latest/download"
+    },
+    {
+        "country": "Estonia",
+        "carrier": "Maanteeamet",
+        "url": "https://openmobilitydata.org/p/maanteeamet/510/latest/download"
+    },
+    {
+        "country": "Finland",
+        "carrier": "FinGov",
+        "url": "https://openmobilitydata.org/p/ministry-of-transport-and-communications/921/latest/download"
+    },
+    {
+        "country": "Ireland",
+        "carrier": "Irishrail",
+        "url": "https://openmobilitydata.org/p/irish-rail/1046/latest/download"
+    },
+    {
+        "country": "Luxembourg",
+        "carrier": "NationalRail",
+        "url": "https://openmobilitydata.org/p/openov/621/latest/download"
+    },
+    {
+        "country": "Norway",
+        "carrier": "NorskReiseinformasjonAS",
+        "url": "https://openmobilitydata.org/p/norsk-reiseinformasjon-as/791/latest/download"
+    },
+    {
+        "country": "Spain",
+        "carrier": "Renfre",
+        "url": "https://openmobilitydata.org/p/renfe/1018/latest/download"
+    },
+    {
+        "country": "Sweden",
+        "carrier": "TrafikLab",
+        "url": "https://openmobilitydata.org/p/trafiklab/50/latest/download"
+    },
+    {
+        "country": "United Kingdom",
+        "carrier": "ATOC",
+        "url": "https://openmobilitydata.org/p/association-of-train-operating-companies/284/latest/download"
+    },
+    {
+        "country": "United Kingdom",
+        "carrier": "GBBus",
+        "url": "https://openmobilitydata.org/p/traveline/1033/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "ACTV01",
+        "url": "https://openmobilitydata.org/p/actv/630/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "ACTV02",
+        "url": "https://openmobilitydata.org/p/actv/631/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "AMAT01",
+        "url": "https://openmobilitydata.org/p/agenzia-mobilita-ambiente-territorio/341/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "Airpullmann",
+        "url": "https://openmobilitydata.org/p/air-pullman-s-p-a/1233/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "Alilaguna",
+        "url": "https://openmobilitydata.org/p/alilaguna/918/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "AMAT02",
+        "url": "https://openmobilitydata.org/p/amat-palermo-spa/540/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "AMTGenova",
+        "url": "https://openmobilitydata.org/p/amt-genova/1011/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "ATPEsercizio",
+        "url": "https://openmobilitydata.org/p/atp-esercizio-srl/1203/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "AMV",
+        "url": "https://openmobilitydata.org/p/autolinee-mugello-valdisieve/750/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "",
+        "url": "https://openmobilitydata.org/p/autolinee-varesine/661/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "AutolineeVaresine",
+        "url": "https://openmobilitydata.org/p/autolinee-varesine/661/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "ATAF",
+        "url": "https://openmobilitydata.org/p/azienda-trasporti-dellarea-fiorentina/739/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "CMGNV",
+        "url": "https://openmobilitydata.org/p/collegamenti-marittimi-grandi-navi-veloci/1164/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "CTMC",
+        "url": "https://openmobilitydata.org/p/ctm-cagliari/1098/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "Cueno",
+        "url": "https://openmobilitydata.org/p/cuneo/622/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "Ferrotramviaria",
+        "url": "https://openmobilitydata.org/p/ferrotramviaria/412/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "GruppoTorineseTrasporti",
+        "url": "https://openmobilitydata.org/p/gruppo-torinese-trasporti/51/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "MTM",
+        "url": "https://openmobilitydata.org/p/mobilita-e-trasporti-molfetta/411/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "Movibus",
+        "url": "https://openmobilitydata.org/p/movibus-s-r-l/1232/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "ASPO",
+        "url": "https://openmobilitydata.org/p/quadri-orari-aspo/1171/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "ATPNuro",
+        "url": "https://openmobilitydata.org/p/quadri-orari-atp-nuoro/1170/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "ATPSassari",
+        "url": "https://openmobilitydata.org/p/quadri-orari-atp-sassari/1172/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "QuadriOrariLineeContributate",
+        "url": "https://openmobilitydata.org/p/quadri-orari-linee-contributate/1168/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "TRENITALIA",
+        "url": "https://openmobilitydata.org/p/quadri-orari-trenitalia/1167/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "RegionePiemonte",
+        "url": "https://openmobilitydata.org/p/regione-piemonte/1192/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "RegionMarche",
+        "url": "https://openmobilitydata.org/p/region-marche/740/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "RomaService",
+        "url": "https://openmobilitydata.org/p/roma-servizi-per-la-mobilita/542/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "SGM",
+        "url": "https://openmobilitydata.org/p/societa-gestione-multipla-spa/706/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "TrenitaliaPiemonte",
+        "url": "https://openmobilitydata.org/p/trenitalia-dtr-piemonte/931/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "Trenord",
+        "url": "https://openmobilitydata.org/p/trenord/724/latest/download"
+    },
+    {
+        "country": "Italy",
+        "carrier": "TTEE",
+        "url": "https://openmobilitydata.org/p/trentino-trasporti-esercizio/614/latest/download"
+    }
+]
